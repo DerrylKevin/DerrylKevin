@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DerrylKevin
-- 👀 I’m interested in data science and web development
-- 🌱 I’m currently working as a Data Engineering Intern
-- 💞️ I’m looking to collaborate on Data science projects
+- 👀 I’m interested in ML/AI
+- 🌱 I’m an Associate AI Engineer
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me : derryl.monis7@gmail.com
-- 👔 Have a look at my portfolio webiste to learn more about me: https://derrylkevin.github.io/my-website/
+- 👔 Have a look at my portfolio website to learn more about me: https://derrylkevin.github.io/my-website/
 
 <!---
 DerrylKevin/DerrylKevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
