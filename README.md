@@ -3,7 +3,7 @@
 - 🌱 I’m an Associate AI Engineer
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me : derryl.monis7@gmail.com
-- 👔 Have a look at my portfolio website to learn more about me: derrylkevin.github.io
+- 👔 Have a look at my portfolio website to learn more about me: [derrylkevin.github.io/](https://derrylkevin.github.io/)
 
 <!---
 DerrylKevin/DerrylKevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
